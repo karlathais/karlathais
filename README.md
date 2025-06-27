@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:Poppins; color:#F1916D">
+<h1 align="center" style="color:#F1916D; font-family:Poppins;">
   👩🏻‍💻 Thaís
 </h1>
 
