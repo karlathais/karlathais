@@ -2,9 +2,7 @@
   👩🏻‍💻 Thaís
 </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8357dc18-0268-4911-9643-68a3b9c4d08d" width="140" alt="Gif animado">
-</p>
+![image](https://github.com/user-attachments/assets/4dad018d-2953-4b02-a709-d8cec81965df)
 
 <p align="center">
   <a href="https://github.com/karlathais/readme-typing-svg">
