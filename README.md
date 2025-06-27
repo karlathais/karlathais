@@ -1,4 +1,6 @@
-### 👩🏻‍💻 Thaís
+<h1 align="center" style="font-family:Poppins;">
+  👩🏻‍💻 Thaís
+</h1>
 
 <p align="center">
   <a href="https://github.com/karlathais/readme-typing-svg">
