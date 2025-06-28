@@ -16,7 +16,7 @@
  
 ---
 
-### 🤖 Tech 💻
+###  💻 Tech 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30px" style="padding-right: 10px;" />
@@ -35,15 +35,15 @@
 
 <p align="center">
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
-    height="200" 
+    height="160" 
     src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=dracula&include_all_commits=true&locale=en"/>
 
   <img 
-    align="left" 
+    align="center" 
     alt="Top Langs" 
-    height="200" 
+    height="160" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
