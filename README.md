@@ -6,19 +6,14 @@
   Always learning new things and growing.<br>
   
  <p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=EED6C4&width=500&height=70&lines=%22Life+imitates+art.%22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=EED6C4&width=500&height=70&lines=%22Life+imitates+art.%22" alt="Typing SVG">
+ </p>
+
+<p align="left">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
- <p align="right">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="200">
-<br><br> 
- </p>
-
-<p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600">
-<br><br>
-</p>
-
 ---
 
 ### 🤖 Technologies
