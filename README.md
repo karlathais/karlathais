@@ -32,19 +32,21 @@
 
 ### 📊 Stats
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
-    width="350" 
-    alt="GitHub Stats"/>
-
-  &nbsp;&nbsp;
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=dracula&include_all_commits=true&locale=en"/>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    width="300" 
-    alt="Top Langs"/>
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
+
 
 
 
