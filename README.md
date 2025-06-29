@@ -1,9 +1,9 @@
  # 👩🏻‍💻 Karla Thaís 
 
-Hello! I am a technology student, currently studying Systems Analysis and Development.<br>
-I am an aspiring Front-End Developer, interested in UI Design and Test Automation.<br>
-I enjoy building clean and accessible interfaces, while exploring ways to ensure quality through testing.<br>
-Currently expanding my knowledge in web technologies and development best practices.<br>
+Hello! I am a technology student, currently studying Systems Analysis and Development<br>
+I am an aspiring Front-End Developer, interested in UI Design and Test Automation<br>
+I enjoy building clean and accessible interfaces, while exploring ways to ensure quality through testing<br>
+Currently expanding my knowledge in web technologies and development best practices<br>
 Always learning new things and growing every day.
 
 <p align="center">
