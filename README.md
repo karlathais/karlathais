@@ -6,11 +6,11 @@ Always learning new things and growing every day.
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top; margin-top: 0px;">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=EED6C4&width=300&height=70&lines=%22Life+imitates+art.%22" alt="Typing SVG" />
-  </span>
-  &nbsp;&nbsp;
+ <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=EED6C4&width=450&height=70&lines=%22Life+imitates+art.%22" alt="Typing SVG" />
+ </span>
+   &nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: bottom; margin-top: 15px;">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270">
   </span>
 </p>
 
@@ -35,13 +35,13 @@ Always learning new things and growing every day.
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=dracula&include_all_commits=true&locale=en"/>
+    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 
