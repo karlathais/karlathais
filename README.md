@@ -30,19 +30,20 @@ Always learning new things and growing every day.
 
 ### 📊 Stats
 
-<p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+ <img 
+  alt="Top Langs" 
+  height="150" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Languages+%26+Tools&langs_count=9"/>
+
+  </div>
+</div>
 
 
 
