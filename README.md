@@ -34,12 +34,12 @@ Always learning new things and growing every day.
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=1" />
   &nbsp;&nbsp;&nbsp;
   <img 
     alt="Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Languages+%26+Tools&langs_count=9" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Languages+%26+Tools&langs_count=9&cache_seconds=1" />
 </p>
 
 
