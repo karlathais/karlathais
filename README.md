@@ -1,19 +1,20 @@
 # 👩🏻‍💻 Thaís 
+![](https://komarev.com/ghpvc/?username=your-github-karlathais&color=lightgrey)
 
 Hello! I'm a tech student diving into Systems Analysis and Development <br>
 Lately, I've been having fun exploring web development and leveling up my skills <br>
 Always learning and growing.
+<br>
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top; margin-top: 0px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1000&color=EED6C4&width=450&height=70&lines=Stay+hungry,+stay+foolish." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Twinkle+Star&size=25&pause=1000&color=EED6C4&width=450&height=70&lines=Stay+hungry,+stay+foolish." alt="Typing/>
   </span>
   &nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: bottom; margin-top: 15px;">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200" alt="GIF animado">
   </span>
 </p>
-
 
 ---
 
