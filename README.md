@@ -1,18 +1,19 @@
 # 👩🏻‍💻 Thaís 
 
-Hello! I'm a tech student diving into Systems Analysis and Development<br>
-Lately, I've been having fun exploring web development and leveling up my skills every day<br> 
-Always learning new things and growing every day.
+Hello! I'm a tech student diving into Systems Analysis and Development <br>
+Lately, I've been having fun exploring web development and leveling up my skills <br>
+Always learning and growing.
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top; margin-top: 0px;">
- <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=EED6C4&width=450&height=70&lines=%22Life+imitates+art.%22" alt="Typing SVG" />
- </span>
-   &nbsp;&nbsp;
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1000&color=EED6C4&width=450&height=70&lines=Stay+hungry,+stay+foolish." alt="Typing SVG"/>
+  </span>
+  &nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: bottom; margin-top: 15px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="270">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200" alt="GIF animado">
   </span>
 </p>
+
 
 ---
 
@@ -34,12 +35,12 @@ Always learning new things and growing every day.
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=1" />
+    src="https://github-readme-stats.vercel.app/api?username=karlathais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&" />
   &nbsp;&nbsp;&nbsp;
   <img 
     alt="Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Languages+%26+Tools&langs_count=9&cache_seconds=1" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlathais&theme=tokyonight&layout=compact&custom_title=Languages+%26+Tools&langs_count=9&" />
 </p>
 
 
