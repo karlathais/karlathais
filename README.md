@@ -8,7 +8,10 @@ Always learning and growing.
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top; margin-top: 0px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Twinkle+Star&size=25&pause=1000&color=EED6C4&width=450&height=70&lines=Stay+hungry,+stay+foolish." alt="Typing/>
+     <img 
+  src="https://readme-typing-svg.demolab.com?font=Allura&size=28&pause=1000&color=EED6C4&width=480&height=80&lines=%22Stay+hungry,+stay+foolish.%22;-+Steve+Jobs." 
+  alt="Typing Animation"
+/>
   </span>
   &nbsp;&nbsp;
   <span style="display: inline-block; vertical-align: bottom; margin-top: 15px;">
